@@ -1,0 +1,151 @@
+Text,CategoryId
+Lidl                 )))),2
+Deposit Rent,1
+McDonalds Banegaards )))),3
+Burger Shack Horsens )))),3
+Shell Fuel Station,0
+Uber Trip,0
+Metro Card Reload,0
+Monthly Rent Transfer,1
+Electricity Bill,1
+Home Insurance,1
+Whole Foods Market,2
+Big Bazaar Grocery,2
+DMart Purchase,2
+Netflix Subscription,3
+Cinema Tickets PVR,3
+Spotify Premium,3
+Pharmacy Apollo,4
+Gym Membership,4
+Doctor Consultation,4
+Udemy Course,5
+Bookstore Crossword,5
+Museum Entry,5
+Zara Clothing,6
+Nike Store,6
+ATM Withdrawal,7
+Cash Deposit,7
+Bank Service Fee,8
+Investment Brokerage,8
+Misc Payment,9
+Unknown Merchant,9
+Shell 0,0
+Uber 1,0
+Ola 2,0
+Parking 3,0
+Fuel 4,0
+Shell 5,0
+Uber 6,0
+Ola 7,0
+Parking 8,0
+Fuel 9,0
+Shell 10,0
+Uber 11,0
+Rent 0,1
+Electricity 1,1
+Water Bill 2,1
+Property Tax 3,1
+Rent 4,1
+Electricity 5,1
+Water Bill 6,1
+Property Tax 7,1
+Rent 8,1
+Electricity 9,1
+Water Bill 10,1
+Property Tax 11,1
+Supermarket 0,2
+Grocery 1,2
+Lidl 2,2
+Market 3,2
+Supermarket 4,2
+Grocery 5,2
+Lidl 6,2
+Market 7,2
+Supermarket 8,2
+Grocery 9,2
+Lidl 10,2
+Market 11,2
+Restaurant 0,3
+Cafe 1,3
+Movie 2,3
+Concert 3,3
+Restaurant 4,3
+Cafe 5,3
+Movie 6,3
+Concert 7,3
+Restaurant 8,3
+Cafe 9,3
+Movie 10,3
+Concert 11,3
+Clinic 0,4
+Pharmacy 1,4
+Yoga 2,4
+Dental 3,4
+Clinic 4,4
+Pharmacy 5,4
+Yoga 6,4
+Dental 7,4
+Clinic 8,4
+Pharmacy 9,4
+Yoga 10,4
+Dental 11,4
+Course 0,5
+Books 1,5
+Workshop 2,5
+Library 3,5
+Course 4,5
+Books 5,5
+Workshop 6,5
+Library 7,5
+Course 8,5
+Books 9,5
+Workshop 10,5
+Library 11,5
+Fashion 0,6
+Shoes 1,6
+Apparel 2,6
+Outlet 3,6
+Fashion 4,6
+Shoes 5,6
+Apparel 6,6
+Outlet 7,6
+Fashion 8,6
+Shoes 9,6
+Apparel 10,6
+Outlet 11,6
+ATM 0,7
+Cash 1,7
+Withdrawal 2,7
+ATM 3,7
+Cash 4,7
+Withdrawal 5,7
+ATM 6,7
+Cash 7,7
+Withdrawal 8,7
+ATM 9,7
+Cash 10,7
+Withdrawal 11,7
+Fee 0,8
+Broker 1,8
+Loan 2,8
+Interest 3,8
+Fee 4,8
+Broker 5,8
+Loan 6,8
+Interest 7,8
+Fee 8,8
+Broker 9,8
+Loan 10,8
+Interest 11,8
+Payment 0,9
+Transfer 1,9
+Misc 2,9
+Payment 3,9
+Transfer 4,9
+Misc 5,9
+Payment 6,9
+Transfer 7,9
+Misc 8,9
+Payment 9,9
+Transfer 10,9
+Misc 11,9
